@@ -1,0 +1,6 @@
+name: UltraAPI
+version: '${version}'
+main: lu.kolja.ultraapi.UltraAPI
+api-version: '1.20'
+authors: [Kolja]
+description: API for the Ultra Plugins
